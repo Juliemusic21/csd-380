@@ -1,4 +1,6 @@
 <h1>CSD 380 DevOps</h1>
 <h2>Contributors</h2>
-*John Woods*
-*Julie Sakai*
+ul<
+<li>John Woods</li>
+<li>Julie Sakai</li>
+ul>
